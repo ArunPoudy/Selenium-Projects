@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="3" total="9" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Loan Department" duration-ms="181" started-at="2021-12-06T21:22:21 IST" finished-at="2021-12-06T21:22:21 IST">
+    <groups>
+    </groups>
+    <test name="Personal Loan" duration-ms="82" started-at="2021-12-06T21:22:21 IST" finished-at="2021-12-06T21:22:21 IST">
+      <class name="testng.testng1">
+        <test-method status="PASS" signature="firsttestcase()[pri:0, instance:testng.testng1@67205a84]" name="firsttestcase" duration-ms="13" started-at="2021-12-06T21:22:21 IST" finished-at="2021-12-06T21:22:21 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- firsttestcase -->
+        <test-method status="PASS" signature="secondtestcase()[pri:0, instance:testng.testng1@67205a84]" name="secondtestcase" duration-ms="2" started-at="2021-12-06T21:22:21 IST" finished-at="2021-12-06T21:22:21 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- secondtestcase -->
+      </class> <!-- testng.testng1 -->
+      <class name="testng.testng2">
+        <test-method status="PASS" signature="thirdtestcase()[pri:0, instance:testng.testng2@711f39f9]" name="thirdtestcase" duration-ms="2" started-at="2021-12-06T21:22:21 IST" finished-at="2021-12-06T21:22:21 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- thirdtestcase -->
+      </class> <!-- testng.testng2 -->
+    </test> <!-- Personal Loan -->
+    <test name="Car Loan" duration-ms="12" started-at="2021-12-06T21:22:21 IST" finished-at="2021-12-06T21:22:21 IST">
+      <class name="testng.testng3">
+        <test-method status="PASS" signature="LoginAPICar()[pri:0, instance:testng.testng3@4b553d26]" name="LoginAPICar" duration-ms="2" started-at="2021-12-06T21:22:21 IST" finished-at="2021-12-06T21:22:21 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginAPICar -->
+        <test-method status="PASS" signature="WebLoginCar()[pri:0, instance:testng.testng3@4b553d26]" name="WebLoginCar" duration-ms="2" started-at="2021-12-06T21:22:21 IST" finished-at="2021-12-06T21:22:21 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- WebLoginCar -->
+      </class> <!-- testng.testng3 -->
+    </test> <!-- Car Loan -->
+    <test name="Home Loan" duration-ms="8" started-at="2021-12-06T21:22:21 IST" finished-at="2021-12-06T21:22:21 IST">
+      <class name="testng.testng4">
+        <test-method status="PASS" signature="LoginAPIHomeLoan()[pri:0, instance:testng.testng4@6f195bc3]" name="LoginAPIHomeLoan" duration-ms="3" started-at="2021-12-06T21:22:21 IST" finished-at="2021-12-06T21:22:21 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginAPIHomeLoan -->
+      </class> <!-- testng.testng4 -->
+    </test> <!-- Home Loan -->
+  </suite> <!-- Loan Department -->
+</testng-results>
